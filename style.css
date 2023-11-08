@@ -1,0 +1,80 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  width: 592px;
+  height: 579px;
+  margin: auto;
+}
+
+div.content img {
+  width: 348px;
+  height: 223px;
+}
+
+h1 {
+  margin: 72px 0 32px 0;
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+}
+
+h1 span {
+  color: #ff9900;
+  font-weight: bold;
+}
+
+span,
+a {
+  color: #ff9900;
+}
+
+p {
+  color: #7d7987;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 28px;
+  margin: 32px 0 72px 0;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.links {
+  display: inline;
+  position: absolute;
+  bottom: 33px;
+  transform: translateX(-50%);
+  left: 50%;
+}
+
+.linha {
+  border: solid 1px;
+  color: #eceff2;
+  width: 568px;
+  height: 0px;
+  margin: 0 0 8px 0;
+  transform: translateX(-50%);
+  left: 50%;
+  position: fixed;
+}
+
+a {
+  margin: 0 20px 0 20px;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+footer.balls img {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 98px;
+  height: 88px;
+}
